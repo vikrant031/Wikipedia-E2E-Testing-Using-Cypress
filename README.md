@@ -38,7 +38,7 @@ This project uses the following tech stack:
 - **JavaScript**: Programming language used for writing test scripts.
 - **Page Object Model (POM)**: Design pattern used to separate the test logic from the page structure and make tests more maintainable.
 - **Mocha/Chai**: Testing frameworks used with Cypress for assertions and organizing tests.
-- **GitHub Actions**: For Continuous Integration (CI) to run automated tests on each code push.
+- **Git**: For code push.
   
 ## Project Setup
 
